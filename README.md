@@ -1,1 +1,1 @@
-# kerkInPetten
+# A paralaxx scrolling website made for the community Schagen
